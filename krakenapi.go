@@ -46,6 +46,7 @@ var privateMethods = []string{
 	"AddOrder",
 	"Balance",
 	"CancelOrder",
+	"CancelAll",
 	"ClosedOrders",
 	"DepositAddresses",
 	"DepositMethods",
